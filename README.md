@@ -74,6 +74,7 @@ In the case of building your own images, make sure the names and commands in the
 
 The project code is available under the [MIT License](LICENSE). The included
 [Cowrie](https://github.com/cowrie/cowrie) configuration is subject to
-[Cowrie's BSD license](cowrie/LICENSE.rst). The offline image includes
+Cowrie's BSD license. The offline image includes
 [`mozibgone`](https://github.com/cartoon-raccoon/mozibgone) under its
-[MIT license](licenses/mozibgone.MIT).
+MIT license.
+   
