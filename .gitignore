@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Runtime logs and generated results
+log.json
+extracted_results.json
+script_logs/
+*.offset
+
+# Cowrie runtime data: logs and downloaded malware samples
+cowrie/log/
+cowrie/downloads/
+
+# Local Redis persistence
+dump.rdb
+appendonly.aof
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+
+
