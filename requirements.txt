@@ -1,0 +1,4 @@
+Pygtail
+python-magic
+pytz
+redis
